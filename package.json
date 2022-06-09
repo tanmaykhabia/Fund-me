@@ -1,5 +1,5 @@
 {
-  "name": "harhat fund me" , 
+  "name": "harhat-fund-me" , 
   "author": "tanmay khabia", 
   "devDependencies": {
     "@chainlink/contracts": "^0.4.1",
